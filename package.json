@@ -1,0 +1,16 @@
+{
+  "name": "wall-puzzle",
+  "version": "1.0.0",
+  "description": "This generates a list of names in a particular sequence so words can be hidden in the columns of the list.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "random-words": "^1.1.1",
+    "wordlist-english": "^1.2.1"
+  }
+}
